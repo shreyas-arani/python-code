@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-learning-project-349805",
+  "private_key_id": "b53a887beac3ef16adc2259858769d80b4c78af0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9lRYam71qB0rP\nBFpjbvNi1Ev6+meAQK4zHwvuIva2uGhfh55oEAqeIRmWQ7hkOXKYk9DYMRSDYRK4\n7kCF0ztvR7FwgYX8cqwe2vb6OjzUiZSCa7Gv5kBTpkYWF03E5dF/thLRYcUTygdk\nXIKwZmdYuHNy8K20dwUr+k3uprKowW+FI4IOve4copcKXQejphop6hX+ZOpBuXYH\nlVDgcYP8rEo+eKEZf7her0spB88ymXy2dSrNpKwXGxDWoJ+JiVusMext8bhH/Ibn\nUyJ+ylIElhpRFOIaZCPfX6pDi5PEpUEQr6S69Wj8GIO7Hh26NSJnx7upm+zpGYn4\ncTY3t9f1AgMBAAECggEAL5TaAd6huRlQcMnOZ9NieaT/1uN/E6ToM8Nwipmy4yRA\nae2PV93i1FJJajnf7yOt+9ZpncEfvWOhP9HoVs4vxhuv0KVpe/VJ9sqNHzt7pfpL\n0Dn4VEYNUhFS2NuLdMYbgRqw+WU5AeD8XveLA3wIJy/QJgJ7Dmaq4SFG6wVipNDM\nnjNevxDtuzH2TYBY2KhEKmpGL/Gk3wa36l8cmOd1+98yfhzaXBk5KJZRZInLLWIw\na535tIxRn1jcb05+5UnL8f15du9AdKBvv2+w/89xV5GcAaVGhMREWTNexyFkCHTZ\nyCzIYKfb/n27ko34YBa4R2T1NeVIsMrR5Nwd19OKFwKBgQD0cWFBca8wQ1pqRGzy\nxOrWwSO/iwERwiQMG6V8IgYHp8vqxABc9Pn2AzkbVoCsVFnxqlii+s51rrEJrVGR\ne0YF9l2mBQN9b345EVTdDwEZgwp72Wo4e+rPttnpJykKS4xbZXeJaoKxoA8QGGq1\n0DYLfo+l+xy+5VdUj9zFtCQgjwKBgQDGi7NrxdD260VFtPSY7Z/NypYAwOJrrJO1\n3wi5x4gR+LyCKkW1NMUNinLtMEHtwRF8P8za1RXZl0rZdLNaKmwvmxWMzlknhnNr\nTszDlqRLHL9l+5KZNtahqonZEjwXkIHFBgRXRkQHz44frCuw+CJ1yyN0Dfj66vMr\nUgcgHtO5OwKBgQCcwCAnwWkgP/C4+IwM2e3mLRBpgg/7fU10Xj4ubfsD6bxAHdRF\nx+qKseJq/3ugBq9u41fXm5HNsWph1DzcV/q9VBEVp11nkJmWquCKqVaBL6EHbpJJ\nCl23OYBfnPcaXPvymAyhmCWbFhLStXWohY5CrLQdMfxrBdKMrXxbY3tPTQKBgA8S\nZdFll+JWo9CR1wuQ5lOp8E8oVUfVNvVUdAYeVn7+wdijutzxn4/SlbzZr/eLc3da\nJIPsLxdwe7ccO805cTL/89fXhj8Q3swjlDm4wsoM6Z6lRVCqMArftk0rLDKhvqgl\nN8kkRV/OaryOxlZNz9ffTtathNwPX9xHAtF2ZZ4nAoGAPgd5fTMfUcjBQqwVBUtv\nKNUMn8U8iOScM78UD2UPjQt/9lyJRpWf4IknXHooE92xugu5jGyu9I/JEdbm6F3h\n/7AEDbNpo1+wceMhgq68BVmrPBa0Bj7MozeZRvsDeJv1g1NNU8J2djt2PZSrqfn/\noB2VMUl5OmjqoiWx12H+080=\n-----END PRIVATE KEY-----\n",
+  "client_email": "actions-sa@gcp-learning-project-349805.iam.gserviceaccount.com",
+  "client_id": "105221288824287758808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/actions-sa%40gcp-learning-project-349805.iam.gserviceaccount.com"
+}
