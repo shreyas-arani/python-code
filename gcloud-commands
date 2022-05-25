@@ -1,0 +1,2 @@
+gcloud builds submit --tag gcr.io/gcp-learning-project-349805/continuous-deployment --project=gcp-learning-project-349805
+gcloud run deploy continuous-deployment --image gcr.io/gcp-learning-project-349805/continuous-deployment --project=gcp-learning-project-349805 --allow-unauthenticated --region asia-south2
